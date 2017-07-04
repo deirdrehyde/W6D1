@@ -1,0 +1,37 @@
+.square {
+  border: 10px solid black;
+  width: 150px;
+  height: 150px;
+  font-size: 125px;
+  text-align: center;
+  vertical-align: middle;
+  margin: 0;
+  background: grey;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+figure {
+  width: 510px;
+  height: 510px;
+  border: 10px solid black;
+  margin: auto;
+}
+
+li:hover {
+  background: yellow;
+}
+h1 {
+  font-size: 70px;
+  text-align: center;
+
+}
+
+h1.won {
+  text-align: center;
+  font-size: 50px;
+}
+
+
+ul.row.group {float: left;list-style-type: none;margin: 0;padding: 0;}
+ul.ttt {float: left;list-style-type: none;margin: 0;padding: 0;}
